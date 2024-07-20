@@ -1,0 +1,14 @@
+/* Media Queries */
+@media (max-width: 768px) {
+  #resume {
+    padding: 1rem;
+  }
+
+  .resume-section h3 {
+    font-size: 1.5rem;
+  }
+
+  .resume-section ul {
+    margin-left: 1rem;
+  }
+}
